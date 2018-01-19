@@ -118,7 +118,7 @@ function play(mode){
 		}
 		else{
 			this.style.backgroundColor = "#232323";
-			messageDisplay.textContent = "Try Again";
+			messageDisplay.textContent = "Wrong";
 		}})
 											}
 				}
