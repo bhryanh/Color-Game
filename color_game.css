@@ -46,6 +46,8 @@ h1{
 #message{
 	display:inline-block;
 	width: 20%;
+	color: steelblue;
+	font-weight: 700;
 
 }
 
